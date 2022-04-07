@@ -1,3 +1,5 @@
+.dbx
+conf
 .vscode
 .vscode/*
 !.vscode/settings.json
